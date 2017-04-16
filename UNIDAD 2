@@ -47,17 +47,17 @@ Para el programa tecnología en desarrollo de software se ubica el curso 204017 
   <h3>CICLO DE VIDA</h3>
   <p>El ciclo de vida del software está constituido por un conjunto de etapas: </p>
  
-  <p><Li>Análisis: Definición y análisis de requisitos. </p>
+  <p><Li>Análisis: Definición y análisis de requisitos.
   <P><li>Diseño: Clasificación de requisitos y organización de estructura de software.</P>
-  <P><Li>Codificación: Codificación y depuración de software. </P>  
+  <P><Li>Codificación: Codificación y depuración de software.
   <P><li>Implementación: Instalación y evaluación.</P>
-  <P><Li>Mantenimiento: Verificación y adecuaciones. </P>
+  <P><Li>Mantenimiento: Verificación y adecuaciones.
 
   <h3>CLASIFICACION DE LOS CICLOS DE VIDA</h3>
   
-	  <P><Li>Ciclo de vida interactivos e incrementales, son los que se trabajan en cascada. </P>
+	  <P><Li>Ciclo de vida interactivos e incrementales, son los que se trabajan en cascada.
  <P><lI>Ciclo de vida con prototipos, ayuda a concretar requisitos y genera prototipo de software provisional el cual se construye con herramientas que se dan con más rapidez. <P>
-	 </section>	
+		
 		 
 	  <br>
 	 
